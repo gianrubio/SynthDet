@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4713ac8b04d674297b1d494205edad6e
+guid: 831fd7839cc9f4710aba3cdb24dbd4b5
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,12 +7,12 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: defaultMat
-    second: {fileID: 2100000, guid: 3ad6fb5a335564c1b83f802a21682af6, type: 2}
+      name: Material_0
+    second: {fileID: 2100000, guid: 2e0b00862a9e54e00962c2d31894ffe6, type: 2}
   materials:
-    materialImportMode: 1
-    materialName: 1
-    materialSearch: 2
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -39,7 +39,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 100
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
